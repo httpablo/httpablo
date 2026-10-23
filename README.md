@@ -1,70 +1,75 @@
-<h1 align="center">Pablo Brito</h1>
+<h2 align="center">Olá 👋, eu sou <a href="https://www.linkedin.com/in/brito-pablo/">Pablo Brito</a></h2>
 
-<p align="center"><strong>Engenheiro de Software | TypeScript · NestJS · React · Python</strong></p>
+<p align="center">
+  <strong>Engenheiro de Software • Backend & IA Aplicada • TypeScript | NestJS | React | Python | FastAPI</strong>
+</p>
+
+<p align="center">
+  Sistemas web multi-tenant e aplicações com LLMs, da modelagem de dados até a interface
+</p>
 
 ---
 
-## Sobre
+### 🚀 Sobre mim
 
-Engenheiro de Software com atuação em backend e IA aplicada, desenvolvendo sistemas web da modelagem de dados até a interface.
+Engenheiro de software com foco em **backend com TypeScript e Python**, atuando também no **frontend com React**.
+Tenho experiência com **plataformas multi-tenant**, **controle de acesso**, **processamento assíncrono** e **integração de LLMs em produtos**.
 
-Desenvolvo APIs REST e aplicações web com TypeScript e Python, com experiência em plataformas multi-tenant, controle de acesso e processamento assíncrono. Em IA, trabalho com integração de LLMs, RAG e busca semântica.
+Trabalho principalmente com:
 
-## Projetos em destaque
+- **APIs REST e serviços backend** (NestJS, FastAPI, Django)
+- **Integração de LLMs, RAG e busca semântica**
+- **Arquiteturas multi-tenant com controle de acesso**
+- **Processamento assíncrono com filas** (Celery, Redis, RabbitMQ)
+- **Frontends com React + TypeScript**
+- **Docker, deploy e CI/CD**
 
-| Projeto | Descrição | Links |
-|---|---|---|
-| **Knowledge Agent** | Base de conhecimento multi-tenant: cada organização envia seus documentos e conversa com um assistente que responde citando as fontes. FastAPI, React, PostgreSQL + pgvector e Celery. | [Código](https://github.com/httpablo/knowledge-agent) · [Demo](https://knowledge-agent-pi-three.vercel.app) |
-| **Foodiary** | App mobile de diário alimentar: refeições registradas por foto, áudio ou texto, com estimativa de calorias e macronutrientes por IA. React Native, Node.js e PostgreSQL. | [Código](https://github.com/httpablo/foodiary) |
-| **Fincheck** | Finanças pessoais: contas bancárias, receitas e despesas por categoria, com filtros. NestJS, Prisma, PostgreSQL e React. | [Código](https://github.com/httpablo/fincheck) · [Demo](https://fincheckhttpablo.app) |
+---
 
-## Stack
+### 🧩 Projetos em destaque
 
-**Linguagens**
+- 📚 **[Knowledge Agent](https://github.com/httpablo/knowledge-agent)**: base de conhecimento multi-tenant com RAG, em que cada organização envia seus documentos e conversa com um assistente que responde citando as fontes. [Demo](https://knowledge-agent-pi-three.vercel.app)
+- 🥗 **[Foodiary](https://github.com/httpablo/foodiary)**: app mobile de diário alimentar, com refeições registradas por foto, áudio ou texto e calorias e macronutrientes estimados por IA.
+- 💰 **[Fincheck](https://github.com/httpablo/fincheck)**: finanças pessoais com NestJS, Prisma e React, com contas bancárias, receitas e despesas por categoria. [Demo](https://fincheckhttpablo.app)
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+---
 
-**Backend**
+### 🛠️ Tecnologias
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+</p>
 
-**Frontend e Mobile**
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+</p>
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+---
 
-**Dados e Filas**
+### 📫 Contato
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![pgvector](https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+- ✉️ **E-mail:** [pereirabritopablo@gmail.com](mailto:pereirabritopablo@gmail.com)
+- 💼 **LinkedIn:** [brito-pablo](https://www.linkedin.com/in/brito-pablo/)
 
-**IA**
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-
-**Infra**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
-## Contato
-
-- E-mail: [pereirabritopablo@gmail.com](mailto:pereirabritopablo@gmail.com)
-- LinkedIn: [linkedin.com/in/brito-pablo](https://www.linkedin.com/in/brito-pablo/)
-
-- ---
+---
 
 ## 📈 Minhas estatísticas
 
