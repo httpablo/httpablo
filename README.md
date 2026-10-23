@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, eu sou <a href="https://github.com/httpablo" target="_blank">Pablo Brito</a></h1>
-<h3 align="center">Desenvolvedor Full Stack | TypeScript • React • Node.js • Nest.js • Python • Django • IA</h3>
+<h3 align="center">Engenheiro de Software | TypeScript · NestJS · React · Python • IA</h3>
 
 ---
 
